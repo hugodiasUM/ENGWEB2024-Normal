@@ -18,6 +18,7 @@ pyhton3 verifydata.py
 - De seguida criei o ficheiro "queries.txt" e coloquei lá dentro as queries em mongodb.
 - Optei por não colocar o output das questões: 3, 4 e 5 devido ao facto do output ser demasiado grande.
 - Para ver o output destes comandos usei os comandos: mongosh -> use contratos -> "colocar a query"
+- Os outputs presentes no ficheiro "queries.txt" podem não estar 100% fidedignos com a realidade do dataset porque o output foi escrito no ficheiro "queries.txt" depois de já realizados alguns testes dos comandos Delete, Put e Post no exercício 1.3 abaixo.
 
 1.3 API de Dados:
 
