@@ -9,11 +9,13 @@ Instruções para executar:
 - pyhton3 importdata.py
 - pyhton3 verifydata.py
 
+Detalhes da Implementação:
 - Comecei por instalar a biblioteca: pip install pandas pymongo
 - De seguida executei o script "importdata.py" para fazer a importação dos dados do ficheiro contratos2024.csv para o a base de dados.
 - De seguida executei o script "verifydata.py" para fazer a verificação dos primeiros 5 documentos da base de dados e verificar que os mesmos se encontram no formato correto.
 
 1.2 Queries:
+Detalhes da Implementação:
 - Criei a pasta ex1
 - De seguida criei o ficheiro "queries.txt" e coloquei lá dentro as queries em mongodb.
 - Optei por não colocar o output das questões: 3, 4 e 5 devido ao facto do output ser demasiado grande.
@@ -27,6 +29,7 @@ Instruções para executar:
 - Correr comando: npm i
 - Correr comando: npm start
 
+Detalhes da Implementação:
 - Comecei por instalar as depêndencias com o comando: "npm install express mongoose body-parser" (não deverá ser necessário correr este comando).
 - Depois criei a página "app.js" onde respondo aos pedidos feitos na questão.
 - Importante citar que embora a minha base de dados tenha os objetos "_id" e "idcontrato", para fazer o pedido: "GET /contratos/:id", o ":id" corresponde ao "idcontrato" e não ao "_id".
@@ -39,6 +42,7 @@ Instruções para executar:
 - Correr comando: npm i
 - Correr comando: npm start
 
+Detalhes da Implementação:
 - Comecei por criar uma pasta de nome ex2 onde vou desenvolver uma nova API diferente da do exercício anterior para responder ao exercício.
 - Criei a pasta models, routes, views e o ficheiro app.js
 - Para instalar as depêndencias usei o comando: "npm install express mongoose body-parser pug"  (não deverá ser necessário correr este comando).
