@@ -36,12 +36,12 @@ Exercício 2:
 Instruções para executar:
 Entrar na pasta ex2
 Correr comando: npm i
-
-
-Feito por Hugo Arantes Dias.
-Número: A100758
 Correr comando: npm start
 
 - Comecei por criar uma pasta de nome ex2 onde vou desenvolver uma nova API diferente da do exercício anterior para responder ao exercício.
 - Criei a pasta models, routes, views e o ficheiro app.js
 - Para instalar as depêndencias usei o comando: "npm install express mongoose body-parser pug"  (não deverá ser necessário correr este comando).
+
+Feito por Hugo Arantes Dias.
+Número: A100758
+Curso: LEI
