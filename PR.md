@@ -36,6 +36,10 @@ Exercício 2:
 Instruções para executar:
 Entrar na pasta ex2
 Correr comando: npm i
+
+
+Feito por Hugo Arantes Dias.
+Número: A100758
 Correr comando: npm start
 
 - Comecei por criar uma pasta de nome ex2 onde vou desenvolver uma nova API diferente da do exercício anterior para responder ao exercício.
